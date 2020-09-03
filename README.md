@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sai Gokula Krishnan</h1>
 <h3 align="center">I code stuff</h3>
 
-- 🔭 I’m currently working on [Portfolio using Flutter Web](imgkl.github.io)
+- 🔭 I’m currently working on [Portfolio using Flutter Web](https://imgkl.github.io)
 
 - 🌱 I’m currently learning **React, Node.js**
 
-- 👨‍💻 All of my projects are available at [imgkl.github.io](imgkl.github.io)
+- 👨‍💻 All of my projects are available at [imgkl.github.io](https://imgkl.github.io)
 
 - 💬 Ask me about **Flutter, Dart**
 
