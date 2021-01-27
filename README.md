@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Gokula Krishnan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Sai Gokula Krishnan</h1>
 <h3 align="center">I code stuff</h3>
 
 - 🔭 I’m currently working on [Portfolio using Flutter Web](https://imgkl.github.io)
