@@ -13,7 +13,6 @@
 
 - I'm most comfortable in that weird, funky world between design and development—that's where the most fun, creative, boundary-breaking work happens.
 
-[![](https://raw.githubusercontent.com/Imgkl/Imgkl/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Imgkl/Imgkl/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Imgkl/Imgkl/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
