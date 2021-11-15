@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Sai Gokula Krishnan</h1>
 <h3 align="center">I code stuff</h3>
 
-- 🔭 I’m currently working on [Portfolio using Flutter Web](https://imgkl.github.io) and [Storybook](https://imgkl.github.io/storybook)
+- 🔭 I’m currently working on [Portfolio using Flutter Web](https://imgkl.github.io) and [Devtools.wtf](https://github.com/Imgkl/devtools.wtf)
 
-- 🌱 I’m currently learning **React, Node.js**
+- 🌱 I’m currently learning **React, Typescript**
 
 - 👨‍💻 All of my projects are available at [imgkl.github.io](https://imgkl.github.io)
 
