@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Typescript**
 
-- 👨‍💻 All of my projects are available at [imgkl.github.io](https://imgkl.github.io)
+- 👨‍💻 Check out my portfolio, [Gokula.dev](https://gokula.dev)
 
 - 💬 Ask me about **Flutter, Dart**
 
