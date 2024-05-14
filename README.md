@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Flutter, Dart, Swift**
 
-- 📫 How to reach me? **saigklkrishnan@gmail.com**
+- 📫 How to reach me? **hi@gokula.dev**
 
 - I'm most comfortable in that weird, funky world between design and development—that's where the most fun, creative, boundary-breaking work happens.
 
